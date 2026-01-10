@@ -1,5 +1,9 @@
 # Machine-learning-HR_Attrition
 İBB Tech-Machine learning bootcamp projesi
+<img width="917" height="635" alt="image" src="https://github.com/user-attachments/assets/affed0a4-6977-4174-9f57-5e92a9985555" />
+
+
+
 
 Bu proje, makine öğrenmesi teknikleri kullanılarak gerçek bir veri seti üzerinde analiz, modelleme ve değerlendirme süreçlerini kapsamaktadır.
 Projenin amacı, veriden anlamlı sonuçlar çıkarabilen ve performansı ölçülebilen bir model geliştirmektir.
